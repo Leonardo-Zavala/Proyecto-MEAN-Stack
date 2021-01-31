@@ -1,4 +1,4 @@
-En el siguiente sitio web se pueden crear, modificar o eliminar proyectos o articulos, la aplicacion es MEAN Stack.
+En esta aplicacion web se pueden crear, modificar o eliminar proyectos o articulos, la aplicacion es MEAN Stack.
 
 Requisitos:
 Angular CLI:
